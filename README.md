@@ -1,3 +1,5 @@
+# In this React + Vite Project, TailwindCSS is used. Implements API calling and add to cart functionality 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
